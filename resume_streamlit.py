@@ -48,7 +48,7 @@ EMAIL = 'robert_bachmeier@yahoo.de'
 SOCIAL_MEDIA = {
                 'Linkedin': 'https://www.linkedin.com/in/robert-bachmeier-828383224/',
                 'Xing' : 'https://www.xing.com/profile/Robert_Bachmeier9/cv',
-                'github' : 'https://github.com/RoBac1993'}
+                'GitHub' : 'https://github.com/RoBac1993'}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
